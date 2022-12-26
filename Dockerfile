@@ -1,5 +1,5 @@
 # Node.js on a minimalist linux OS..
-FROM node:lts-alpine
+FROM node:16-alpine
 
 # WorkDir of your program..
 WORKDIR /app
